@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">UTS_LoveSelf</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="slide_1_title">Jangan lupa jaga kesahatan</string>
+    <string name="slide_1_desc">Yang dijaga buka cuma fisik ya, mental juga harus tetap sehat.</string>
+
+    <string name="slide_2_title">Jangan lupa bahagia</string>
+    <string name="slide_2_desc">Dan jangan lupa juga beribadah kepada sang pencipta.</string>
+
+    <string name="slide_3_title">Jangan lupa istirahat</string>
+    <string name="slide_3_desc">Semua orang akan sampai pada waktu yang sudah ditentukan.</string>
+
+    <string name="deskripsi">Saya adalah manusia yang lahir pada 03 Desember Tahun 2000, zodiak saya sagitarius bagi yang percaya.
+    Saya gasuka sebenarnya mendeskripsikan diri saya, karena menurut saya tidak penting juga. Makanan terenak didunia adalah KFC,
+    kalau minum sih biasa air putih lebih sehat kata orang. Saya gajago ngoding yaa buktinya ini program saya ga terlalu bagus-bagus amat. Oke segitu aja ya
+        udah bingung nih.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
